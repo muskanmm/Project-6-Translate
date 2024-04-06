@@ -4,7 +4,7 @@ Submitted by: Muskan Mankikar
 
 Translate is an app that allows users to translate words from English to Spanish
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
@@ -12,8 +12,8 @@ The following **required** functionality is completed:
 
 - [x] Users open the app to a TranslationMe home page with a place to enter a word, phrase or sentence, a button to translate, and another field that should initially be empty
 - [x] When users tap translate, the word written in the upper field translates in the lower field. The requirement is only that you can translate from one language to another.
-- [ ] A history of translations can be stored (in a scroll view in the same screen, or a new screen)
-- [ ] The history of translations can be erased
+- [x] A history of translations can be stored (in a scroll view in the same screen, or a new screen)
+- [x] The history of translations can be erased
  
 The following **optional** features are implemented:
 
@@ -26,15 +26,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![Project6](https://github.com/muskanmm/Project-6-Translate/assets/103543593/6ebc3630-30c1-40fb-bca2-97087e1d4d58)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble saving the translated words to the database since there were permission errors. 
 
 ## License
 
