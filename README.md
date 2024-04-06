@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Project6](https://github.com/muskanmm/Project-6-Translate/assets/103543593/6ebc3630-30c1-40fb-bca2-97087e1d4d58)
+https://github.com/muskanmm/Project-6-Translate/assets/103543593/fe0c1edc-283a-461a-9d97-32e7c466b13d
 
 ## Notes
 
